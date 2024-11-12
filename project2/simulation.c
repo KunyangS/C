@@ -1,8 +1,3 @@
-// Student Name: Kunyang Xie    Student Number: 24447687
-// Student Name: Erqian Chen    Student Number: 23421379
-
-
-
 #include <stdio.h>
 #include <stdlib.h>
 
