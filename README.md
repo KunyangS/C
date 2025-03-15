@@ -26,7 +26,7 @@ Beyond this project, this repository also serves as **a reflection of my C progr
 📖 How to Use**  
 ```sh
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/runml.git
+git clone https://github.com/YOUR_USERNAME/runml.git](https://github.com/KunyangS/C/blob/main/project/runml.c
 cd runml
 
 # Compile the transpiler
